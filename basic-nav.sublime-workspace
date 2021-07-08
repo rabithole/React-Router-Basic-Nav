@@ -1,0 +1,1990 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"av",
+				"avengers"
+			],
+			[
+				"text-",
+				"text-shadow\tproperty"
+			],
+			[
+				"Ave",
+				"AvengerMovies"
+			],
+			[
+				"ave",
+				"avenger"
+			],
+			[
+				"Av",
+				"AvengerDetails"
+			],
+			[
+				"Avenger",
+				"AvengerMovies"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"COmo",
+				"ComponentFromWithAuthenticate"
+			],
+			[
+				"ha",
+				"handleLoginSubmit"
+			],
+			[
+				"hand",
+				"handleInputChange"
+			],
+			[
+				"Post",
+				"PostsPage"
+			],
+			[
+				"pr",
+				"props\tReact: this.props."
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"add",
+				"addTodoEvent"
+			],
+			[
+				"over",
+				"overflow-wrap\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"padd",
+				"padding-bottom\tproperty"
+			],
+			[
+				"Clic",
+				"clickEvent"
+			],
+			[
+				"backg",
+				"background-image\tproperty"
+			],
+			[
+				"H",
+				"HeaderContent"
+			],
+			[
+				"Hea",
+				"HeaderContent"
+			],
+			[
+				"He",
+				"HeaderContent"
+			],
+			[
+				"Header",
+				"HeaderTitle"
+			],
+			[
+				"body",
+				"bodyHeight"
+			],
+			[
+				"dat",
+				"dataset"
+			],
+			[
+				"data",
+				"data-tab"
+			],
+			[
+				"ex",
+				"expandButton"
+			],
+			[
+				"exa",
+				"expandButton"
+			],
+			[
+				"menu",
+				"menu--open"
+			],
+			[
+				"quer",
+				"querySelector"
+			],
+			[
+				"mous",
+				"mouseup"
+			],
+			[
+				"ba",
+				"backgroundColor"
+			],
+			[
+				"sc",
+				"scrollY"
+			],
+			[
+				"head",
+				"head"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"z",
+				"z-index\tproperty"
+			],
+			[
+				"imag",
+				"imageSource"
+			],
+			[
+				"he",
+				"healthPoints"
+			],
+			[
+				"att",
+				"attrsChar"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"game",
+				"GameObject"
+			],
+			[
+				"mage",
+				"mageAttrs"
+			],
+			[
+				"ga",
+				"GameObject"
+			],
+			[
+				"heal",
+				"healthPoints"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"larg",
+				"largest"
+			],
+			[
+				"la",
+				"largest"
+			],
+			[
+				"large",
+				"largestDonation"
+			],
+			[
+				"dona",
+				"donation"
+			],
+			[
+				"first",
+				"firstId"
+			],
+			[
+				"fir",
+				"firstId"
+			],
+			[
+				"runn",
+				"runnerIdentity"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"fi",
+				"firstId"
+			],
+			[
+				"donat",
+				"donation"
+			],
+			[
+				"shir",
+				"shirt_size"
+			],
+			[
+				"las",
+				"last_name"
+			],
+			[
+				"curre",
+				"currentValue"
+			],
+			[
+				"mul",
+				"multiplyNums"
+			],
+			[
+				"list",
+				"listLength"
+			],
+			[
+				"get",
+				"getLength"
+			],
+			[
+				"para",
+				"param2"
+			],
+			[
+				"car_",
+				"car_make"
+			],
+			[
+				"car",
+				"carModels"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"in",
+				"inventory"
+			],
+			[
+				"int",
+				"intern5"
+			],
+			[
+				"marg",
+				"margin-bottom\tproperty"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"font-sy",
+				"font-style\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"work",
+				"work-history"
+			],
+			[
+				"fl",
+				"flex-column"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"fle",
+				"flex-column"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"fig",
+				"figcaption\tTag"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"list-style",
+				"list-style-type\tproperty"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"flex-",
+				"flex-direction\tproperty"
+			],
+			[
+				"cap",
+				"capitalized"
+			],
+			[
+				"capi",
+				"capitalizeWords"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/App.js",
+			"settings":
+			{
+				"buffer_size": 380,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/index.js",
+			"settings":
+			{
+				"buffer_size": 299,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/components/About.js",
+			"settings":
+			{
+				"buffer_size": 87,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/components/Contact.js",
+			"settings":
+			{
+				"buffer_size": 93,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/components/Home.js",
+			"settings":
+			{
+				"buffer_size": 84,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/components/index.js",
+			"settings":
+			{
+				"buffer_size": 174,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/components/Navigation.js",
+			"settings":
+			{
+				"buffer_size": 449,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: install package control",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install package",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-Router-Basic-Nav",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-Router-Basic-Nav/src",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-Router-Basic-Nav/src/components"
+	],
+	"file_history":
+	[
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/react-american-football-scoreboard/src/App.test.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/webapi-ii-challenge/data/migrations/20190509175531_add_comments_table.js.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/webapi-ii-challenge/data/migrations/20180401213248_add_posts_table.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/webapi-ii-challenge/data/seeds/01-posts.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/webapi-ii-challenge/data/seeds/02-comments.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/webapi-ii-guided/data/seeds/001-hubs.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/webapi-ii-guided/data/seeds/002-messages.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/webapi-ii-challenge/hubs/hubs-router.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/webapi-ii-challenge/hubs/hubs-model.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/webapi-ii-challenge/data/db.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/webapi-ii-challenge/README.md",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/webapi-i-guided/data/hubs-model.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/webapi-ii-challenge/index.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/webapi-i-guided/index.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/webapi-ii-guided/index.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/webapi-i-challenge/index.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/Server-Side/index.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/webapi-i-challenge/data/db.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/webapi-i-challenge/data/seeds/users.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/webapi-ii-challenge/package.json",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/webapi-ii-challenge/data/index.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/webapi-i-challenge/solution.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/webapi-i-guided/data/seeds/01-hubs.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/webapi-i-guided/package.json",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/webapi-i-guided/knexfile.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/webapi-i-challenge/package.json",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/webapi-i-guided/package-lock.json",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/redux-actions/src/App.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/redux-actions/src/JambaJuice.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/redux-actions/src/index.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/avengers/src/App.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/avengers/src/index.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Notes/React.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/avengers/src/components/SingleAvenger.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-Insta-Clone/my-app/src/components/login/Login.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/avengers/src/components/Avenger.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/avengers/src/components/AvengersList.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/avengers/src/components/AvengerDetails.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/avengers/src/components/AvengerMovies.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/avengers/src/components/Home.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-Todo/src/App.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-Todo/src/components/TodoComponents/TodoForm.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/avengers/src/avengersData.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Notes/Notes.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/Sprint-Challenge-Lambda-Times-React/lambdatimes/src/index.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/Sprint-Challenge-Lambda-Times-React/lambdatimes/src/App.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-Insta-Clone/my-app/src/components/postcontainer/PostContainer.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-Insta-Clone/my-app/src/index.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/avengers/src/App.css",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/avengers/src/index.css",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/avengers/src/components/ItemList.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/Sprint-Challenge-Lambda-Times-React/lambdatimes/src/components/Content/Cards.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/Sprint-Challenge-Lambda-Times-React/lambdatimes/src/data.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/Sprint-Challenge-Lambda-Times-React/lambdatimes/src/components/Content/Tabs.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/Sprint-Challenge-Lambda-Times-React/lambdatimes/src/components/Content/Tab.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/Sprint-Challenge-Lambda-Times-React/lambdatimes/src/components/Content/Content.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/Sprint-Challenge-Lambda-Times-React/lambdatimes/src/components/Content/Card.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/Sprint-Challenge-Lambda-Times-React/lambdatimes/src/CSS/index.css",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-Insta-Clone/my-app/src/components/searchbar/SearchBar.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-Insta-Clone/my-app/src/components/authentication/withAuthenticate.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-Insta-Clone/my-app/src/components/comments/CommentSection.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-Insta-Clone/my-app/src/components/postcontainer/PostsPage.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-Insta-Clone/my-app/src/App.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-Insta-Clone/my-app/src/components/comments/CommentSection.css",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-Insta-Clone/my-app/src/components/postcontainer/postContainer.css",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-Insta-Clone/my-app/src/components/login/Login.css",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-Insta-Clone/my-app/src/dummy-data.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-Insta-Clone/my-app/src/components/searchbar/SearchBar.css",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-Insta-Clone/assets/InstaClone-componentStructure.jpg",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-Insta-Clone/assets/ig_search_bar.png",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-Insta-Clone/assets/ig_post.png",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-Insta-Clone/assets/folder_structure.png",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-Insta-Clone/my-app/public/index.html",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-Insta-Clone/dummy-data.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-Insta-Clone/my-app/src/components/SearchBar.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-Insta-Clone/my-app/src/components/CommentSection.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-Insta-Clone/my-app/src/components/PostContainer.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-Insta-Clone-1/instagram-app/App.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-Insta-Clone-1/instagram-app/src/App.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-Insta-Clone-1/instagram/src/dummy-data.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-Insta-Clone-1/instagram-app/src/dummy-data.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-Insta-Clone/instagram-app/src/index.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/anaimals/public/index.html",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/my-app/src/App.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/my-app/src/App.test.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/my-app/src/index.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-Todo/src/components/TodoComponents/Todo.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-Todo/src/components/TodoComponents/TodoList.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/Tabs-Components/components/Tabs/Tabs.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/Tabs-Components/components/Dropdown/Dropdown.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/Sprint-Challenge-Applied-Javascript/components/Tabs/Tabs.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/Sprint-Challenge-Applied-Javascript/components/Tabs/tabs-me.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/Animals/src/App.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/Animals/src/App.test.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/Animals/src/index.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/Animals/src/serviceWorker.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/Animals/src/components/animalsData.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/Animals/src/components/Data.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/Sprint-Challenge-Applied-Javascript/components/Carousel/Carousel.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-Todo/package.json",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/Animals/public/favicon.ico",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-Todo/public/index.html",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-UI-Components/Project-II-Calculator/calculator/src/components/ButtonComponents/NumberButton.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-UI-Components/Project-II-Calculator/calculator/src/components/DisplayComponents/CalculatorDisplay.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-UI-Components/Project-II-Calculator/calculator/src/components/ButtonComponents/ActionButton.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-UI-Components/Project-II-Calculator/calculator/src/index.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-UI-Components/Project-II-Calculator/calculator/src/App.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-Todo/README.md",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-Todo/src/index.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-UI-Components/Project-II-Calculator/calculator/src/index.css",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-UI-Components/Project-II-Calculator/calculator/src/components/DisplayComponents/Display.css",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-UI-Components/Project-II-Calculator/calculator/src/App.css",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-UI-Components/Project-II-Calculator/calculator/src/components/ButtonComponents/Button.css",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-UI-Components/Project-II-Calculator/calculator/public/index.html",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-UI-Components/Project-II-Calculator/design-files/Project-2.png",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-UI-Components/Project-II-Calculator/calculator/README.md",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-UI-Components/Project-I-Social-Card/social-card/src/App.css",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-UI-Components/Project-I-Social-Card/social-card/src/components/HeaderComponents/Header.css",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-UI-Components/Project-I-Social-Card/social-card/src/components/CardComponents/Card.css",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-UI-Components/Project-I-Social-Card/social-card/src/components/FooterComponents/Footer.css",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-UI-Components/Project-I-Social-Card/social-card/src/App.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-UI-Components/Project-I-Social-Card/social-card/src/components/CardComponents/CardContainer.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-UI-Components/Project-I-Social-Card/social-card/src/components/HeaderComponents/HeaderTitle.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-UI-Components/Project-I-Social-Card/social-card/src/components/CardComponents/CardBanner.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-UI-Components/Project-I-Social-Card/social-card/src/components/CardComponents/CardContent.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-UI-Components/Project-I-Social-Card/social-card/src/components/FooterComponents/Footer.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-UI-Components/Project-I-Social-Card/social-card/src/components/CardComponents/ClickEvent.js",
+		"/C/Users/Robert Kulp/Documents/Lambda/PT-Classes/Projects/React-UI-Components/Project-I-Social-Card/social-card/package.json"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 380,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": 90,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 299,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								299,
+								299
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "src/components/About.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 87,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": 85,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/components/Contact.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 93,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": 86,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/components/Home.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 84,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": 87,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/components/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 174,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": 88,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/components/Navigation.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 449,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": 89,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 116.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "basic-nav.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 291.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
